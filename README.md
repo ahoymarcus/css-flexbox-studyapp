@@ -41,7 +41,7 @@ Dependências:
 <br />
 
 
-### Observando o comportamento dos elementos com as propriedades Wrap Vs Nowrap:               
+### Observando o comportamento dos elementos com as propriedades Wrap Vs Nowrap com a direção default por Linha:               
 ![Imagem mostrando o comportamento dos elementos com as propriedades Wrap Vs Nowrap](/public/images/wrap-vs-nowrap-properties_parte1.png)
 
 
@@ -50,8 +50,8 @@ Dependências:
 <br />
 
 
-### Resultado final do projeto em Freecodecamp.org:               
-![Resultado final do projeto em Freecodecamp.org](/public/images/)
+### Observando o comportamento dos elementos com as propriedades Wrap Vs Nowrap com a direção por Colunas:               
+![Resultado final do projeto em Freecodecamp.org](/public/images/wrap-vs-nowrap-properties_parte2.png)
 
 
 
