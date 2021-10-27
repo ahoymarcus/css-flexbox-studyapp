@@ -23,8 +23,8 @@ Dependências:
 
 <br />
 
-### Metric-Imperial Converter App home page:          
-![File Metadata App home page](/public/images/)
+### Projeto de curso proposto pela professora:          
+![Imagem do Projeto de curso proposto pela professora](/public/images/projeto proposto pela professora Karen Santos.png)
 
 
 
