@@ -24,14 +24,14 @@ Dependências:
 <br />
 
 ### Projeto de curso proposto pela professora:          
-![Imagem do Projeto de curso proposto pela professora](/public/images/projeto proposto pela professora Karen Santos.png)
+![Imagem do Projeto de curso proposto pela professora](/public/images/projeto-proposto-pela-professora-Karen-Santos.png)
 
 
 
 <br />
 
-### Fazendo uma requisição POST para upload de um arquivo e devolvendo ao cliente metadados como resposta:          
-![Imagem de uma requisição POST para upload de um arquivo e devolvendo ao cliente metadados como resposta](/public/images/)
+### Entendendo a propriedade reverse para row e column em flex-direction:          
+![Imagem do uso da propriedade reverse para row e column em flex-direction](/public/images/entendendo-a-propriedade-reverse.png)
 
 
 
