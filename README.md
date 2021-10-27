@@ -51,7 +51,7 @@ Dependências:
 
 
 ### Observando o comportamento dos elementos com as propriedades Wrap Vs Nowrap com a direção por Colunas:               
-![Resultado final do projeto em Freecodecamp.org](/public/images/wrap-vs-nowrap-properties_parte2.png)
+![Imagem do comportamento dos elementos com as propriedades Wrap Vs Nowrap com a direção por Colunas](/public/images/wrap-vs-nowrap-properties_parte2.png)
 
 
 
@@ -59,8 +59,8 @@ Dependências:
 <br />
 
 
-### Resultado final do projeto em Freecodecamp.org:               
-![Resultado final do projeto em Freecodecamp.org](/public/images/)
+### Observando o comportamento dos elementos com a propriedade Flew-flow:               
+![Imagem do comportamento dos elementos com a propriedade Flew-flow](/public/images/flex-flow-property.png)
 
 
 
