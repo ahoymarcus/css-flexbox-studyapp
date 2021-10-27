@@ -41,6 +41,24 @@ Dependências:
 <br />
 
 
+### Observando o comportamento dos elementos com as propriedades Wrap Vs Nowrap:               
+![Imagem mostrando o comportamento dos elementos com as propriedades Wrap Vs Nowrap](/public/images/wrap-vs-nowrap-properties_parte1.png)
+
+
+
+
+<br />
+
+
+### Resultado final do projeto em Freecodecamp.org:               
+![Resultado final do projeto em Freecodecamp.org](/public/images/)
+
+
+
+
+<br />
+
+
 ### Resultado final do projeto em Freecodecamp.org:               
 ![Resultado final do projeto em Freecodecamp.org](/public/images/)
 
@@ -61,6 +79,39 @@ Dependências:
 
 ### Resultado final do projeto em Freecodecamp.org:               
 ![Resultado final do projeto em Freecodecamp.org](/public/images/)
+
+
+
+
+
+<br />
+
+
+### Resultado final do projeto em Freecodecamp.org:               
+![Resultado final do projeto em Freecodecamp.org](/public/images/)
+
+
+
+
+
+<br />
+
+
+### Resultado final do projeto em Freecodecamp.org:               
+![Resultado final do projeto em Freecodecamp.org](/public/images/)
+
+
+
+
+
+
+<br />
+
+
+### Resultado final do projeto em Freecodecamp.org:               
+![Resultado final do projeto em Freecodecamp.org](/public/images/)
+
+
 
 
 
