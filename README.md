@@ -87,8 +87,8 @@ Dependências:
 <br />
 
 
-### Resultado final do projeto em Freecodecamp.org:               
-![Resultado final do projeto em Freecodecamp.org](/public/images/)
+### Já abaixo o comportamento da propriedade align-content:                 
+![Imagem mostrando o comportamento da propriedade align-content](/public/images/align-content-property.png)
 
 
 
