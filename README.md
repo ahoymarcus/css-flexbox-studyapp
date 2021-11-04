@@ -69,7 +69,7 @@ Dependências:
 
 
 ### Agora o comportamento da propriedade Justify-content sobre os itens, primeiro definidos e linha e depois em coluna:               
-![Image do comportamento da propriedade Justify-content sobre os itens, primeiro definidos e linha e depois em coluna](/public/images/justify-content-property.png)
+![Imagem do comportamento da propriedade Justify-content sobre os itens, primeiro definidos e linha e depois em coluna](/public/images/justify-content-property.png)
 
 
 
@@ -77,8 +77,8 @@ Dependências:
 <br />
 
 
-### Resultado final do projeto em Freecodecamp.org:               
-![Resultado final do projeto em Freecodecamp.org](/public/images/)
+### O comportamento da propriedade align-items sobre os itens, primeiro definidos e linha e depois em coluna:               
+![Imagem do comportamento da propriedade align-items, primeiro definidos e linha e depois em coluna](/public/images/align-items-property.png)
 
 
 
